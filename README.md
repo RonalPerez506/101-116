@@ -1,19 +1,20 @@
 # 101-116
 respuestas
 
-1. Describa los tipos de datos que las empresas analizan
-en este caso.
 
-2. ¿Cómo está mejorando este análisis de datos detallado
-las operaciones y la toma de decisiones en las empresas
-descritas en este caso? ¿Qué estrategias de negocios se
-están apoyando?
+RESPUESTAS 116
+3-11 Analice a Walmart y Amazon.com usando los modelos
+de fuerzas competitivas y la cadena de valor.
 
-3. ¿Hay desventajas al extraer los datos de los clientes?
+
+3-12 Compare los modelos de negocios y las estrategias
+de negocios de Walmart y Amazon.
+
+
+3-13 ¿Qué rol desempeña la tecnología de la información
+en cada uno de estos negocios? ¿Cómo les ayuda a
+refinar sus estrategias de negocios?
+
+
+3-14 ¿Tendrá éxito Walmart contra Amazon.com?
 Explique su respuesta.
-
-4. ¿Cómo se siente con el hecho de que sus aerolíneas
-extraigan sus datos del vuelo? ¿Es esto distinto de las
-empresas que extraen los datos de sus compras con
-tarjeta de crédito o de navegación Web?
-
