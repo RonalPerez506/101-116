@@ -4,7 +4,7 @@ respuestas
 1. Describa los tipos de datos que las empresas analizan
 en este caso.
 
-Respuesta 1
+Main
 
 2. ¿Cómo está mejorando este análisis de datos detallado
 las operaciones y la toma de decisiones en las empresas
@@ -18,3 +18,4 @@ Explique su respuesta.
 extraigan sus datos del vuelo? ¿Es esto distinto de las
 empresas que extraen los datos de sus compras con
 tarjeta de crédito o de navegación Web?
+
