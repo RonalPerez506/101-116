@@ -4,13 +4,13 @@ respuestas
 1. Describa los tipos de datos que las empresas analizan
 en este caso.
 
-Prueba
 
 2. ¿Cómo está mejorando este análisis de datos detallado
 las operaciones y la toma de decisiones en las empresas
 descritas en este caso? ¿Qué estrategias de negocios se
 están apoyando?
 
+Ronal
 
 Hola 
 3. ¿Hay desventajas al extraer los datos de los clientes?
