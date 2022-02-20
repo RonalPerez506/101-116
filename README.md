@@ -1,5 +1,6 @@
 # 101-116
 RESPUESTAS PAG 101
+Ronal Perez 7690-1411506
 
 1. Describa los tipos de datos que las empresas analizan
 en este caso.
